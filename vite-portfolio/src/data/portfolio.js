@@ -1,20 +1,20 @@
 export default [
     {
         title: 'Social Media Site',
-        imgUrl: '',
+        imgUrl: './src/assets/Social.jpg',
         stack: ['React','Express','MongoDB', 'Node'],
-        link: 'https://fkcodes.com',
+        link: '',
     },
     {
         title: 'Developer Portfolio',
-        imgUrl: '',
+        imgUrl: './src/assets/portfolio.jpg',
         stack: ['React','Tailwind','Vite'],
-        link: 'https://fkcodes.com',
+        link: '',
     },
     {
         title: 'Ecom Site',
-        imgUrl: '',
+        imgUrl: './src/assets/ecom.jpg',
         stack: ['React','CSS'],
-        link: 'https://fkcodes.com',
+        link: '',
     },
 ]
