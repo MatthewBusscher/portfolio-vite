@@ -1,13 +1,13 @@
 
 export default [
     {
-        year: 'today',
+        year: new Date().getFullYear(),
         title:'Assistant Webmaster',
         duration: 'July 2022',
         details: 'Maintained large scale Wordpress site.  Including troubleshooting various bugs, speed issues, server change, and database migration.'
     },
     {
-        year: '2022',
+        year: '2021',
         title:'Freelance Programmer',
         duration: '1 year',
         details: 'Assisted with program development. Projects included Data Analytics and small application development.'
