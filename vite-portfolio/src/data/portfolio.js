@@ -8,13 +8,13 @@ export default [
     {
         title: 'Developer Portfolio',
         imgUrl: '/assets/portfolio.jpg',
-        stack: ['React','Tailwind','Vite'],
-        link: '',
+        stack: ['React','Tailwindcss','Vite'],
+        link: '/',
     },
     {
         title: 'Ecom Site',
         imgUrl: '/assets/ecom.jpg',
         stack: ['React','CSS'],
-        link: '',
+        link: 'https://github.com/MattBusscher/MernEcom.git',
     },
 ]
