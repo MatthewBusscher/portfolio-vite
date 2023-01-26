@@ -48,7 +48,7 @@ function App() {
         className="fixed p-2 z-10 fill-black right-20 top-4 bg-teal-400 dark:bg-orange-400 text-lg p-1 rounded-md"
         >
         {theme === 'dark' ? sun : moon}MODE</button> */}
-      <div className="bg-white dark:bg-stone-900 text-stone-900 dark:text-stone-300 min-h-screen font-inter">
+      <div className="dark:bg-stone-900 text-stone-900 dark:text-stone-300 min-h-screen font-inter">
 			<div className="max-w-5xl w-11/12 mx-auto">
 				<Intro />
 				<Portfolio />
